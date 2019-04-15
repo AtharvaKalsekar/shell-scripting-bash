@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/cut-command-linux-examples/
+https://www.geeksforgeeks.org/regular-expression-grep/
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+http://99college.blogspot.com/2013/01/shell-scripting-program.html
+http://www.dailyfreecode.com/code/shell-script-which-reports-names-sizes-1609.aspx
+https://www.linuxjournal.com/content/bash-arrays
+https://www.javatpoint.com/shell-let-scripting#
